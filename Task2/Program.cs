@@ -8,7 +8,7 @@ namespace Task2
         {
             int request;
 
-            Trains trains = new Trains(3);
+            Trains trains = new Trains(8);
 
             //for (int i = 0; i < trains.Lenght; i++) // - Проверка сортировки по порядку в массиве.
             //    trains.Show(i);
