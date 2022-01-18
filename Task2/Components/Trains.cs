@@ -24,8 +24,7 @@ namespace Task2
                     if (trains[i].Number == index)
                         return i;
 
-                return 0
-                    -1;
+                return -1;
             }
         }
 
